@@ -1,2 +1,2 @@
-# 42_Malaga_Fundacion_Telefonica
-Repositorio con los ejercicios de lenguaje de programación C de la piscina 2024 de Málaga de la Fundación Telefónica
+# 42_M-laga_Fundaci-n_Telef-nica
+Ejercicios y proyectos de la piscina 42 Málaga Fundación Telefónica en lenguaje C
